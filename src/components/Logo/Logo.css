@@ -1,0 +1,10 @@
+.Logo{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.098);
+    cursor: pointer;
+}

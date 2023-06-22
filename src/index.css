@@ -1,0 +1,51 @@
+*, html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  
+  background-color: #ffffffee;
+  /* background: #e1e1e1 url('bbblurry4.svg') no-repeat center; 
+  background-size: cover;  */
+  
+}
+button { 
+  cursor: pointer;
+}
+
+.center{
+  display: flex;
+  justify-content: center;  
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+.f1 { font-size: 3rem; }
+.f2 { font-size: 2.25rem; }
+.f3 { font-size: 1.5rem; }
+.f4 { font-size: 1.25rem; }
+.f5 { font-size: 1rem; }
+.f6 { font-size: .875rem; }
+.f7 { font-size: .75rem; } /* Small and hard to read for many people so use with extreme caution */
