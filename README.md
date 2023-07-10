@@ -17,10 +17,13 @@ Parte do Back-end: https://github.com/UnknownPerson66/face-recognition-back
 # Imagens do projeto
 
 - Login: 
-![image](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/232343cb-9376-476d-8aff-5bcefcca6e11)
+![opera_WUR0W7F4EY](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/fa79f26a-06a5-466e-8c17-ea29b141905d)
+
 - Register:
-![image](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/85949d75-cf54-4bbe-9651-da4b770753f4)
+![opera_HKDfK12zDn](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/6ea904ca-6f66-4085-85a7-d11fe89c2c28)
+
 - Página principal:
-![image](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/e318e4f6-1562-4017-98a6-cce9e4edca17)
+![opera_fAqCHjODCb](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/e0b074cc-dec3-4c5a-8672-f74e310e1b2c)
+
 - Página principal em mobile:
-![image](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/e4736669-0fe9-4ac0-b4a5-2372d9a897ce)
+![opera_17MhjpMVEl](https://github.com/UnknownPerson66/face-recognition-front/assets/46661756/5194a5ac-4201-4fec-ab82-fd002a74abbc)
