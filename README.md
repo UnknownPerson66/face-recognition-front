@@ -10,7 +10,7 @@ Além de algumas outras funções como poder se registrar e entrar em seu perfil
 - React
 - CSS
 - NodeJS
-- PostgreeSQL
+- PostgreSQL
 
 Parte do Back-end: https://github.com/UnknownPerson66/face-recognition-back
 
